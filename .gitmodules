@@ -1,0 +1,3 @@
+[submodule "libradius"]
+	path = libradius
+	url = https://github.com/openradiusd/libradius
